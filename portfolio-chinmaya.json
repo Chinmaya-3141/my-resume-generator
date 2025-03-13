@@ -1,0 +1,147 @@
+{
+  "name": "Chinmaya Venkataraman",
+  "label": "Technology Consultant",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "chinmayavenkat@gmail.com",
+    "phone": "9818146198",
+    "location": "Bangalore, India"
+  },
+  "summary": "Chinmaya is a results-driven Technology Consultant with two years of experience in data science, AI/ML, and mathematics. He specializes in data analysis, predictive modeling, and generative AI to solve business challenges. Skilled in Agile methodologies, custom solution development, and system integrations, Chinmaya excels in delivering innovative, data-driven outcomes and fostering strategic decision-making.",
+  "url": "",
+  "social_links": [
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/chinmaya-v-369b41217/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/Chinmaya-3141",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "EY India, Bengaluru",
+      "position": "Consultant",
+      "url": "https://www.ey.com/en_in",
+      "start_date": "2024",
+      "end_date": "2025",
+      "summary": "",
+      "highlights": [
+        "Developed a generative AI solution to analyze market sentiment towards the client by aggregating data from multiple sources, performing sentiment analysis, and creating an NPS score dashboard to visualize the results. This enabled the client to make timely interventions and maintain a positive NPS score.",
+        "Managed stakeholder communications, risk management, and resource planning for a banking client in the Asia-Pacific region. Supported financial modeling and revenue forecasting, delivering regular reports that informed senior leadership decisions.",
+        "Collaborated with a telecommunications client to assess technology adoption and organizational maturity. Used data-driven surveys to generate insights that helped incorporate AI/ML methods, improving business outcomes.",
+        "Led ETL processes, including data cleaning, transformation, and modeling, to ensure data integrity. Applied data augmentation techniques to improve model performance and generate actionable insights that optimized business processes."
+      ]
+    },
+    {
+      "company": "EY India, Bengaluru",
+      "position": "Associate Consultant",
+      "url": "https://www.ey.com/en_in",
+      "start_date": "2023",
+      "end_date": "2024",
+      "summary": "",
+      "highlights": [
+        "Contributed to business development efforts by assisting in the preparation of proposals and responses to RFPs. Developed impactful presentations and decks that clearly communicated value propositions, supporting client engagement and fostering new business opportunities.",
+        "Contributed to process documentation and mapping for an agri-tech subsidiary of a chemical manufacturing company, identifying process dependencies and areas for improvement. Played a role in change management initiatives to enhance operational efficiency.",
+        "Performed business analysis for clients in the manufacturing, power generation, and pharmaceutical sectors, utilizing data insights and AI/ML techniques to improve processes and increase yields by 15%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Capstone project",
+      "summary": "Created deep learning model to detect COVID-Pneumonia from chest X-rays.",
+      "url": "https://github.com/Chinmaya-3141",
+      "highlights": ["won Best Capstone Project Award", "Solved real life problems"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "caption"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "caption"
+        },
+        {
+          "img_path": "portfolio_media/yt3.png",
+          "caption": "caption"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Heritage Point Assisted Living",
+      "position": "Computer Assistance",
+      "url": "https://www.heritage-point.com/",
+      "start_date": "2012",
+      "end_date": "2015",
+      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
+      "highlights": []
+    },
+    {
+      "organization": "Marshall University",
+      "position": "Student Ambassador",
+      "url": "https://marshall.edu",
+      "start_date": "2007",
+      "end_date": "2008",
+      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Shiv Nadar University",
+      "location": "Greater Noida, NCR, India",
+      "url": "https://snu.edu.in/home/",
+      "degrees": [
+        "Bachelor of Science (Research) in Mathematics",
+      ],
+      "honors": [
+        "Merit Scholarship: Full tuition fee waiver",
+        "Class representative to Student Council"
+      ],
+      "gpa_cumulative": "7.07",
+      "gpa_major": "7.07",
+      "graduation_date": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, AI-ML, Cloud",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 40,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Woodworking",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "Chess Board made from Walnut and Maple"
+        },
+        {
+          "img_path": "portfolio_media/ww2.jpg",
+          "caption": "Wooden Necklace from Walnut Scrap"
+        }
+      ]
+    }
+  ],
+  "languages": ["English", "Hindi", "Tamil"],
+  "references": []
+}
