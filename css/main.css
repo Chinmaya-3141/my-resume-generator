@@ -243,40 +243,38 @@ img {
 
 /* Container for the side gallery */
 .side-gallery {
-  display: flex;                   /* Use flexbox to arrange items in a row */
-  flex-wrap: wrap;                  /* Allow items to wrap to the next line when needed */
-  gap: 1rem;                        /* Space between items */
-  justify-content: flex-start;      /* Align items to the start of the container */
-  margin-top: 1rem;                 /* Space above the gallery */
+  display: grid;                     /* Use grid to layout images in rows */
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* Automatically create 3 columns with a minimum width of 200px */
+  gap: 1rem;                          /* Space between images */
+  margin-top: 1rem;                   /* Space above the gallery */
 }
 
 /* Style for each image and caption container */
 .side-gallery figure {
-  display: flex;                    /* Use flexbox for the figure */
-  flex-direction: column;           /* Stack the image and caption vertically */
-  align-items: center;              /* Center the image and caption horizontally */
-  width: 100px;                     /* Fixed width for each figure (can adjust) */
-  margin-bottom: 1rem;              /* Space between rows */
-  text-align: center;               /* Ensure caption is centered */
+  display: flex;                      /* Use flexbox for the figure */
+  flex-direction: column;             /* Stack the image and caption vertically */
+  align-items: center;                /* Center the content horizontally */
+  text-align: center;                 /* Center the caption */
+  margin: 0;                          /* Remove any default margin */
 }
 
 /* Image styles */
 .side-gallery img {
-  width: 100%;                      /* Make image take the full width of its container */
-  height: auto;                     /* Maintain the aspect ratio of the image */
-  display: block;                   /* Remove any extra space below the image */
-  margin-bottom: 0.5rem;            /* Space between image and caption */
+  width: 100%;                        /* Make image take the full width of its container */
+  height: auto;                       /* Maintain the aspect ratio */
+  display: block;                     /* Remove any extra space below the image */
+  margin-bottom: 0.5rem;              /* Space between image and caption */
 }
 
 /* Caption styling */
 .side-gallery figcaption {
-  font-size: 0.9rem;                /* Smaller text size for caption */
-  color: #666;                      /* Light color for caption text */
-  font-style: italic;               /* Italicize the caption */
-  word-wrap: break-word;            /* Ensure long words break properly */
-  text-align: center;               /* Ensure text stays centered */
-  width: 100%;                      /* Make caption the same width as the image */
+  font-size: 0.9rem;                  /* Smaller text size for the caption */
+  color: #666;                        /* Light color for the caption */
+  font-style: italic;                 /* Italicize the caption */
+  word-wrap: break-word;              /* Ensure long words break properly */
+  width: 100%;                        /* Ensure caption takes up the full width of the figure */
 }
+
 
 
 
