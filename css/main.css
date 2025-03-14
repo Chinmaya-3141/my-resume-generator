@@ -252,10 +252,12 @@ img {
 
 /* Style for each image and caption container */
 .side-gallery figure {
-  display: inline-block;            /* Keeps the figure element inline */
-  text-align: center;               /* Centers the caption below the image */
-  width: 100px;                     /* Fixed width for each figure (can adjust) */
+  display: flex;                    /* Use flexbox for the figure */
+  flex-direction: column;           /* Stack the image and caption vertically */
+  align-items: center;              /* Center the image and caption horizontally */
+  width: 200px;                     /* Fixed width for each figure (can adjust) */
   margin-bottom: 1rem;              /* Space between rows */
+  text-align: center;               /* Ensure caption is centered */
 }
 
 /* Image styles */
@@ -272,6 +274,7 @@ img {
   color: #666;                      /* Light color for caption text */
   font-style: italic;               /* Italicize the caption */
 }
+
 
 figcaption {
   text-align: center;
