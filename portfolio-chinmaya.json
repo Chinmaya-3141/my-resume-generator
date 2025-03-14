@@ -74,12 +74,29 @@
   "projects": [
     {
       "title": "Capstone project - 'VisionRay - Prediction of Covid-19 Pneumonia from chest X-rays using Deep Learning'",
-      "summary": "Created deep learning model to detect COVID-Pneumonia from chest X-rays.",
+      "summary": "Trained Efficient-net deep learning model to detect COVID-Pneumonia from chest X-rays. Used object detection to localize affected areas of patient lung.",
       "tech_used":"Pytorch, OpenCV, scikit-learn, streamlit",
-      "url": "https://github.com/Chinmaya-3141"
+      "url": "https://github.com/Chinmaya-3141/Capstone-Project.git"
+    },
+    {
+      "title": "Big Data with MongoDB and PySpark",
+      "summary": "Uploaded data to hosted MongoDB server and imported data remotely to perform EDA using Spark Dataframes. Built Machine Learning pipelines and implementing the following models: Decision Tree, Random Forest, GBM, XgBoost, SVM, Naive Bayes",
+      "tech_used":"PySpark, PyMongo",
+      "url": "https://github.com/Chinmaya-3141/Big-Data-with-MongoDB-and-PySpark.git"
+    },
+    {
+      "title": "Machine Learning with Hyperopt on Emissions Data",
+      "summary": "Cleaned emissions data, applied regression and various machine learning techniques, performed hyperparameter tuning to get best results. Performed residue analysis and hypothesis testing to ensure validity of findings.",
+      "tech_used":"Scikit-learn",
+      "url": "https://github.com/Chinmaya-3141/Machine-Learning-with-Hyperopt-on-Emissions-Data.git"
+    },
+    {
+      "title": "Web scraping with scrapy",
+      "summary": "Scraped google news for daily news updates on a topic, decoded redirect links, trained machine learning model to extract article, stored it in a database and performed sentiment analysis on resulting data.",
+      "tech_used":"Scrapy, Ollama",
+      "url": "https://github.com/Chinmaya-3141/Web-scraping-with-scrapy.git"
     }
   ],
-
 
   "volunteer_experience": [
     {
