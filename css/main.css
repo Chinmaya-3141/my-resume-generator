@@ -254,7 +254,7 @@ img {
 .side-gallery figure {
   display: inline-block;            /* Keeps the figure element inline */
   text-align: center;               /* Centers the caption below the image */
-  width: 90px;                     /* Fixed width for each figure (can adjust) */
+  width: 200px;                     /* Fixed width for each figure (can adjust) */
   margin-bottom: 1rem;              /* Space between rows */
 }
 
