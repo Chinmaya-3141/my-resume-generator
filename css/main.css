@@ -255,7 +255,7 @@ img {
   display: flex;                    /* Use flexbox for the figure */
   flex-direction: column;           /* Stack the image and caption vertically */
   align-items: center;              /* Center the image and caption horizontally */
-  width: 200px;                     /* Fixed width for each figure (can adjust) */
+  width: 100px;                     /* Fixed width for each figure (can adjust) */
   margin-bottom: 1rem;              /* Space between rows */
   text-align: center;               /* Ensure caption is centered */
 }
