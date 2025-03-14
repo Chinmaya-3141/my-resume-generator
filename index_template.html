@@ -78,7 +78,7 @@
                   {% endif %}
                   {% if contact.phone %}
                     <li>
-                      <a href="tel:+{{ contact.phone | replace('-', '') }}">{{ contact.phone }}</a>
+                      <a href="tel:+91{{ contact.phone | replace('-', '') }}">{{ contact.phone }}</a>
                     </li>
                   {% endif %}
                   {% if contact.location %}<li>{{ contact.location }}</li>{% endif %}
@@ -290,21 +290,23 @@
             </section>
           {% endif %}
 
-          {% if interests %}
+          {% if certifications %}
             <section>
-              <h2 class="section-heading">Interests</h2>
-              {% for interest in interests %}
+              <h2 class="section-heading">Certifications</h2>
+              {% for certification in certifications %}
                 <section>
-                  <h3>{{ interest.name }}</h3>
-                  {% if interest.summary %}<p>{{ interest.summary }}</p>{% endif %}
-                  {% if interest.images %}
-                    <div class="gallery side-gallery">
-                      {% for img in interest.images %}
+                  <h3>{{ certification.name }}</h3>
+                  {% if certification.summary %}<p>{{ certification.summary }}</p>{% endif %}
+                  {% if certification.images %}
+                    <div class="gallery main-gallery">
+                      {% for img in certification.images %}
                         <figure>
-                          <img width="600"
-                               height="338"
-                               src="{{ img.img_path }}"
-                               alt="{{ img.caption }}">
+                            <a href="{{ img.link }}" target="_blank">
+                                <img width="120"
+                                    height="120"
+                                    src="{{ img.img_path }}"
+                                    alt="{{ img.caption }}">
+                            </a>
                           <figcaption>{{ img.caption }}</figcaption>
                         </figure>
                       {% endfor %}

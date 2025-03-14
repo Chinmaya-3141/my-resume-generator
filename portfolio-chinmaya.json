@@ -126,22 +126,84 @@
       "proficiency_label": "Comfortable"
     }
   ],
-  "interests": [
+  "certifications": [
     {
-      "name": "Woodworking",
+      "name": "Cloud",
       "summary": "",
       "images": [
         {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
+          "img_path": "portfolio_media/aws-certified-solutions-architect-associate.png",
+          "caption": "AWS Solution Architect",
+          "link":"https://www.credly.com/badges/bba9d4e0-7ac3-4c8c-aff9-4fde83cab5bc/public_url"
         },
         {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
+          "img_path": "portfolio_media/aws-certified-cloud-practitioner.png",
+          "caption": "AWS Cloud Practicioner",
+          "link":"https://www.credly.com/badges/ec0b2319-2c3d-4f63-9313-93ce7eb0eb92/public_url"
+        },
+        {
+          "img_path": "portfolio_media/azure-administrator-associate-600x600.png",
+          "caption": "AZ104",
+          "link":""
+        },
+        {
+          "img_path": "portfolio_media/azure-ai-fundamentals-600x600.png",
+          "caption": "AI900",
+          "link":""
+        },
+        {
+          "img_path": "portfolio_media/azure-fundamentals-600x600.png",
+          "caption": "AZ900",
+          "link":""
+        }
+      ]
+    },
+    {
+      "name": "Agile",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/professional-scrum-master-i-psm-i.png",
+          "caption": "PSMI",
+          "link":"https://www.credly.com/badges/71090ead-fcc8-443f-a0ac-1fc0603ae0fa/public_url"
+        },
+        {
+          "img_path": "portfolio_media/professional-scrum-product-owner-i-pspo-i.png",
+          "caption": "PSPOI",
+          "link":"https://www.credly.com/badges/236b65a7-5c3b-44e9-a6b2-e898881a4abb/public_url"
+        },
+        {
+          "img_path": "portfolio_media/professional-scrum-master-ii-psm-ii.png",
+          "caption": "PSMII",
+          "link":"https://www.credly.com/badges/803b9498-6c5d-4519-a70d-2a266ea67967/public_url"
+        },
+        {
+          "img_path": "portfolio_media/professional-scrum-product-owner-ii-pspo-ii.png",
+          "caption": "PSPOII",
+          "link":"professional-scrum-product-owner-ii-pspo-ii.png"
+        },
+        {
+          "img_path": "portfolio_media/agile-coaching.png",
+          "caption": "Agile Coach",
+          "link":"https://www.credly.com/badges/f0837ce8-09d2-4e15-866a-527f21166ddd/public_url"
         }
       ]
     }
   ],
-  "languages": ["English", "Hindi", "Tamil"],
+  "languages": [
+                    {
+                        "language":"English",
+                        "fluency":"Native"
+                    },
+                    {
+                        "language":"Hindi",
+                        "fluency":"Native"
+                    }, 
+                    {
+                        "language":"Tamil",
+                        "fluency":"Native"
+                    }
+
+               ],
   "references": []
 }
