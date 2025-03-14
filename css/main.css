@@ -273,7 +273,11 @@ img {
   font-size: 0.9rem;                /* Smaller text size for caption */
   color: #666;                      /* Light color for caption text */
   font-style: italic;               /* Italicize the caption */
+  word-wrap: break-word;            /* Ensure long words break properly */
+  text-align: center;               /* Ensure text stays centered */
+  width: 100%;                      /* Make caption the same width as the image */
 }
+
 
 
 figcaption {
