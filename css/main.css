@@ -263,10 +263,10 @@ img {
 .side-gallery img {
   width: 100%;                                /* Make image take up full width of the figure */
   height: auto;                               /* Let the height be determined by the image aspect ratio */
-  max-height: 120px;                          /* Ensure image doesn't exceed 120px in height */
+  max-height: 150px;                          /* Ensure image doesn't exceed 150px in height */
   object-fit: contain;                        /* Make sure the entire image fits within the container */
   display: block;                             /* Remove any extra space below the image */
-  margin-bottom: 0.5rem;                      /* Space between image and caption */
+  margin-bottom: 0.2rem;                      /* Space between image and caption */
 }
 
 /* Caption styling */
@@ -278,10 +278,6 @@ img {
   width: 100%;                                /* Ensure caption takes up the full width of the figure */
   text-align: center;                         /* Center the caption */
 }
-
-
-
-
 
 figcaption {
   text-align: center;

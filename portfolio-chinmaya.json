@@ -55,50 +55,55 @@
       "title": "Capstone project",
       "summary": "Created deep learning model to detect COVID-Pneumonia from chest X-rays.",
       "url": "https://github.com/Chinmaya-3141",
-      "highlights": ["won Best Capstone Project Award", "Solved real life problems"],
-      "images": [
-        {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "caption"
-        },
-        {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "caption"
-        },
-        {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "caption"
-        }
-      ]
+      "highlights": ["won Best Capstone Project Award", "Solved real life problems"]
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Heritage Point Assisted Living",
-      "position": "Computer Assistance",
-      "url": "https://www.heritage-point.com/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
-      "highlights": []
-    },
-    {
-      "organization": "Marshall University",
-      "position": "Student Ambassador",
-      "url": "https://marshall.edu",
-      "start_date": "2007",
-      "end_date": "2008",
-      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
-      "highlights": []
+      "organization": "Shiv Nadar University",
+      "position": "Class Representative",
+      "url": "https://snu.edu.in/home/",
+      "start_date": "2019",
+      "end_date": "2020",
+      "summary": "Ensured students' issues and concerns were appropriately addressed, especially during COVID.",
+      "highlights": [],
+      "images": [
+        {
+          "img_path": "portfolio_media/volunteer1.png",
+          "caption": "Won 'Best Capstone Presentation'"
+        },
+        {
+          "img_path": "portfolio_media/volunteer2.png",
+          "caption": "Organized SPIC-MACAY SNU chapter"
+        },
+        {
+          "img_path": "portfolio_media/volunteer3.png",
+          "caption": "Organized WCA Cubing Nationals"
+        }
+      ]
     }
   ],
   "education": [
+    {
+      "institution": "Praxis Business School",
+      "location": "Rasapunja, Kolkata, India",
+      "url": "https://snu.edu.in/home/",
+      "degrees": [
+        "PGP in Data Science"
+      ],
+      "honors": [
+        "Won 'Best Capstone Project' for Monsoon 22 batch."
+      ],
+      "gpa_cumulative": "5.75",
+      "gpa_percentage": "75%",
+      "graduation_date": "2023"
+    },
     {
       "institution": "Shiv Nadar University",
       "location": "Greater Noida, NCR, India",
       "url": "https://snu.edu.in/home/",
       "degrees": [
-        "Bachelor of Science (Research) in Mathematics"
+        "B.Sc (Research) in Mathematics [4 Year Program]"
       ],
       "honors": [
         "Merit Scholarship: Full tuition fee waiver",
@@ -106,7 +111,7 @@
       ],
       "gpa_cumulative": "7.07",
       "gpa_major": "7.07",
-      "graduation_date": "2017"
+      "graduation_date": "2021"
     }
   ],
   "skills": [
@@ -155,23 +160,19 @@
           "img_path": "portfolio_media/azure-fundamentals-600x600.png",
           "caption": "AZ900",
           "link":""
+        },
+        {
+          "img_path": "portfolio_media/ey-cloud-silver-learning-2024.png",
+          "caption": "EY - Cloud",
+          "link":"https://www.credly.com/badges/bc9f56f2-88d8-4513-bb8b-9b619226e8f5/public_url"
         }
+
       ]
     },
     {
       "name": "Agile",
       "summary": "",
       "images": [
-        {
-          "img_path": "portfolio_media/professional-scrum-master-i-psm-i.png",
-          "caption": "PSMI",
-          "link":"https://www.credly.com/badges/71090ead-fcc8-443f-a0ac-1fc0603ae0fa/public_url"
-        },
-        {
-          "img_path": "portfolio_media/professional-scrum-product-owner-i-pspo-i.png",
-          "caption": "PSPOI",
-          "link":"https://www.credly.com/badges/236b65a7-5c3b-44e9-a6b2-e898881a4abb/public_url"
-        },
         {
           "img_path": "portfolio_media/professional-scrum-master-ii-psm-ii.png",
           "caption": "PSMII",
@@ -186,6 +187,16 @@
           "img_path": "portfolio_media/agile-coaching.png",
           "caption": "Agile Coach",
           "link":"https://www.credly.com/badges/f0837ce8-09d2-4e15-866a-527f21166ddd/public_url"
+        },
+        {
+          "img_path": "portfolio_media/professional-scrum-master-i-psm-i.png",
+          "caption": "PSMI",
+          "link":"https://www.credly.com/badges/71090ead-fcc8-443f-a0ac-1fc0603ae0fa/public_url"
+        },
+        {
+          "img_path": "portfolio_media/professional-scrum-product-owner-i-pspo-i.png",
+          "caption": "PSPOI",
+          "link":"https://www.credly.com/badges/236b65a7-5c3b-44e9-a6b2-e898881a4abb/public_url"
         }
       ]
     }
