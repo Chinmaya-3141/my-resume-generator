@@ -7,7 +7,7 @@
     "phone": "9818146198",
     "location": "Bangalore, India"
   },
-  "summary": "Chinmaya is a results-driven Technology Consultant with two years of experience in data science, AI/ML, and mathematics. He specializes in data analysis, predictive modeling, and generative AI to solve business challenges. Skilled in Agile methodologies, custom solution development, and system integrations, Chinmaya excels in delivering innovative, data-driven outcomes and fostering strategic decision-making.",
+  "summary": "Chinmaya is a results-oriented Technology Consultant with two years of experience in data science, AI/ML, and mathematics. He specializes in data analysis, predictive modeling, and generative AI to address complex business challenges. With expertise in Agile methodologies, custom solution development, and system integrations, Chinmaya excels at delivering innovative, data-driven solutions that drive strategic decision-making.",
   "url": "",
   "social_links": [
     {
@@ -21,43 +21,66 @@
       "svg_path": "img/github.svg"
     }
   ],
-  "work_experience": [
+    "work_experience": [
+      {
+        "company": "Ernst & Young LLP",
+        "position": "Consultant",
+        "url": "https://www.ey.com/en_in",
+        "start_date": "Oct '24",
+        "end_date": "Present",
+        "summary": "",
+        "highlights": [
+          {
+            "heading": "Generative AI Solution",
+            "content": "Developed a generative AI solution to analyze market sentiment towards the client by aggregating data from multiple sources, performing sentiment analysis, and creating an NPS score dashboard to visualize the results. This enabled the client to make timely interventions and maintain a positive NPS score."
+          },
+          {
+            "heading": "Stakeholder & Resource Management",
+            "content": "Managed stakeholder communications, risk management, and resource planning for a banking client in the Asia-Pacific region. Supported financial modeling and revenue forecasting, delivering regular reports that informed senior leadership decisions."
+          },
+          {
+            "heading": "Technology Adoption & AI/ML Integration",
+            "content": "Collaborated with a telecommunications client to assess technology adoption and organizational maturity. Used data-driven surveys to generate insights that helped incorporate AI/ML methods, improving business outcomes."
+          },
+          {
+            "heading": "ETL Process Leadership",
+            "content": "Led ETL processes, including data cleaning, transformation, and modeling, to ensure data integrity. Applied data augmentation techniques to improve model performance and generate actionable insights that optimized business processes."
+          }
+        ]
+      },
     {
-      "company": "EY India, Bengaluru",
-      "position": "Consultant",
-      "url": "https://www.ey.com/en_in",
-      "start_date": "2024",
-      "end_date": "2025",
-      "summary": "",
-      "highlights": [
-        "Developed a generative AI solution to analyze market sentiment towards the client by aggregating data from multiple sources, performing sentiment analysis, and creating an NPS score dashboard to visualize the results. This enabled the client to make timely interventions and maintain a positive NPS score.",
-        "Managed stakeholder communications, risk management, and resource planning for a banking client in the Asia-Pacific region. Supported financial modeling and revenue forecasting, delivering regular reports that informed senior leadership decisions.",
-        "Collaborated with a telecommunications client to assess technology adoption and organizational maturity. Used data-driven surveys to generate insights that helped incorporate AI/ML methods, improving business outcomes.",
-        "Led ETL processes, including data cleaning, transformation, and modeling, to ensure data integrity. Applied data augmentation techniques to improve model performance and generate actionable insights that optimized business processes."
-      ]
-    },
-    {
-      "company": "EY India, Bengaluru",
+      "company": "Ernst & Young LLP",
       "position": "Associate Consultant",
       "url": "https://www.ey.com/en_in",
-      "start_date": "2023",
-      "end_date": "2024",
+      "start_date": "May '23",
+      "end_date": "Sept '24",
       "summary": "",
       "highlights": [
-        "Contributed to business development efforts by assisting in the preparation of proposals and responses to RFPs. Developed impactful presentations and decks that clearly communicated value propositions, supporting client engagement and fostering new business opportunities.",
-        "Contributed to process documentation and mapping for an agri-tech subsidiary of a chemical manufacturing company, identifying process dependencies and areas for improvement. Played a role in change management initiatives to enhance operational efficiency.",
-        "Performed business analysis for clients in the manufacturing, power generation, and pharmaceutical sectors, utilizing data insights and AI/ML techniques to improve processes and increase yields by 15%"
+        {
+          "heading": "Business Development & Client Engagement",
+          "content": "Assisted in the preparation of proposals and RFP responses, developing impactful presentations and decks that communicated value propositions, supporting client engagement and fostering new business opportunities."
+        },
+        {
+          "heading": "Process Documentation & Improvement",
+          "content": "Contributed to process documentation and mapping for an agri-tech subsidiary, identifying dependencies and areas for improvement. Supported change management initiatives to enhance operational efficiency."
+        },
+        {
+          "heading": "Business Analysis & AI/ML Application",
+          "content": "Performed business analysis for clients in manufacturing, power generation, and pharmaceuticals, using data insights and AI/ML techniques to improve processes and increase yields by 15%."
+        }
       ]
     }
   ],
   "projects": [
     {
-      "title": "Capstone project",
+      "title": "Capstone project - 'VisionRay - Prediction of Covid-19 Pneumonia from chest X-rays using Deep Learning'",
       "summary": "Created deep learning model to detect COVID-Pneumonia from chest X-rays.",
-      "url": "https://github.com/Chinmaya-3141",
-      "highlights": ["won Best Capstone Project Award", "Solved real life problems"]
+      "tech_used":"Pytorch, OpenCV, scikit-learn, streamlit",
+      "url": "https://github.com/Chinmaya-3141"
     }
   ],
+
+
   "volunteer_experience": [
     {
       "organization": "Shiv Nadar University",
@@ -69,15 +92,15 @@
       "highlights": [],
       "images": [
         {
-          "img_path": "portfolio_media/volunteer1.png",
+          "img_path": "portfolio_media/volunteer-imgs/volunteer1.png",
           "caption": "Won 'Best Capstone Presentation'"
         },
         {
-          "img_path": "portfolio_media/volunteer2.png",
+          "img_path": "portfolio_media/volunteer-imgs/volunteer2.png",
           "caption": "Organized SPIC-MACAY SNU chapter"
         },
         {
-          "img_path": "portfolio_media/volunteer3.png",
+          "img_path": "portfolio_media/volunteer-imgs/volunteer3.png",
           "caption": "Organized WCA Cubing Nationals"
         }
       ]
@@ -91,12 +114,12 @@
       "degrees": [
         "PGP in Data Science"
       ],
-      "honors": [
-        "Won 'Best Capstone Project' for Monsoon 22 batch."
+      "highlights": [
+        "Won 'Best Capstone Project' for Monsoon '22 batch."
       ],
       "gpa_cumulative": "5.75",
-      "gpa_percentage": "75%",
-      "graduation_date": "2023"
+      "gpa_percentage": "79.25%",
+      "graduation_date": "Aug '23 to May '24"
     },
     {
       "institution": "Shiv Nadar University",
@@ -105,13 +128,27 @@
       "degrees": [
         "B.Sc (Research) in Mathematics [4 Year Program]"
       ],
-      "honors": [
+      "highlights": [
         "Merit Scholarship: Full tuition fee waiver",
-        "Class representative to Student Council"
+        "Class representative to Student Council",
+        "Undergraduate Thesis - Differential Calculus in Normed Linear Spaces."
       ],
       "gpa_cumulative": "7.07",
-      "gpa_major": "7.07",
-      "graduation_date": "2021"
+      "gpa_percentage": "70.7%",
+      "graduation_date": "Aug '17 to June '22"
+    },
+    {
+      "institution": "St. Columba's School'",
+      "location": "New Delhi, India",
+      "url": "https://snu.edu.in/home/",
+      "degrees": [
+        "Higher Secondary Certificate"
+      ],
+      "highlights": [
+        "Won Vedant Mehra Memorial Award for topping the school in English in the CBSE Board Exams."
+      ],
+      "gpa_percentage": "91.25%",
+      "graduation_date": "Apr '04 to May '17"
     }
   ],
   "skills": [
@@ -137,32 +174,32 @@
       "summary": "",
       "images": [
         {
-          "img_path": "portfolio_media/aws-certified-solutions-architect-associate.png",
+          "img_path": "portfolio_media/cloud-badges/aws-certified-solutions-architect-associate.png",
           "caption": "AWS Solution Architect",
           "link":"https://www.credly.com/badges/bba9d4e0-7ac3-4c8c-aff9-4fde83cab5bc/public_url"
         },
         {
-          "img_path": "portfolio_media/aws-certified-cloud-practitioner.png",
+          "img_path": "portfolio_media/cloud-badges/aws-certified-cloud-practitioner.png",
           "caption": "AWS Cloud Practicioner",
           "link":"https://www.credly.com/badges/ec0b2319-2c3d-4f63-9313-93ce7eb0eb92/public_url"
         },
         {
-          "img_path": "portfolio_media/azure-administrator-associate-600x600.png",
+          "img_path": "portfolio_media/cloud-badges/azure-administrator-associate-600x600.png",
           "caption": "AZ104",
           "link":""
         },
         {
-          "img_path": "portfolio_media/azure-ai-fundamentals-600x600.png",
+          "img_path": "portfolio_media/cloud-badges/azure-ai-fundamentals-600x600.png",
           "caption": "AI900",
           "link":""
         },
         {
-          "img_path": "portfolio_media/azure-fundamentals-600x600.png",
+          "img_path": "portfolio_media/cloud-badges/azure-fundamentals-600x600.png",
           "caption": "AZ900",
           "link":""
         },
         {
-          "img_path": "portfolio_media/ey-cloud-silver-learning-2024.png",
+          "img_path": "portfolio_media/cloud-badges/ey-cloud-silver-learning-2024.png",
           "caption": "EY - Cloud",
           "link":"https://www.credly.com/badges/bc9f56f2-88d8-4513-bb8b-9b619226e8f5/public_url"
         }
@@ -174,27 +211,27 @@
       "summary": "",
       "images": [
         {
-          "img_path": "portfolio_media/professional-scrum-master-ii-psm-ii.png",
+          "img_path": "portfolio_media/agile-badges/professional-scrum-master-ii-psm-ii.png",
           "caption": "PSMII",
           "link":"https://www.credly.com/badges/803b9498-6c5d-4519-a70d-2a266ea67967/public_url"
         },
         {
-          "img_path": "portfolio_media/professional-scrum-product-owner-ii-pspo-ii.png",
+          "img_path": "portfolio_media/agile-badges/professional-scrum-product-owner-ii-pspo-ii.png",
           "caption": "PSPOII",
           "link":"professional-scrum-product-owner-ii-pspo-ii.png"
         },
         {
-          "img_path": "portfolio_media/agile-coaching.png",
+          "img_path": "portfolio_media/agile-badges/agile-coaching.png",
           "caption": "Agile Coach",
           "link":"https://www.credly.com/badges/f0837ce8-09d2-4e15-866a-527f21166ddd/public_url"
         },
         {
-          "img_path": "portfolio_media/professional-scrum-master-i-psm-i.png",
+          "img_path": "portfolio_media/agile-badges/professional-scrum-master-i-psm-i.png",
           "caption": "PSMI",
           "link":"https://www.credly.com/badges/71090ead-fcc8-443f-a0ac-1fc0603ae0fa/public_url"
         },
         {
-          "img_path": "portfolio_media/professional-scrum-product-owner-i-pspo-i.png",
+          "img_path": "portfolio_media/agile-badges/professional-scrum-product-owner-i-pspo-i.png",
           "caption": "PSPOI",
           "link":"https://www.credly.com/badges/236b65a7-5c3b-44e9-a6b2-e898881a4abb/public_url"
         }

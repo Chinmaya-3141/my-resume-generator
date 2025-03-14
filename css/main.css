@@ -320,7 +320,19 @@ figcaption {
   color: #666;                     /* Lighter color for fluency */
 }
 
+/*
+.edu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
+.graduation-date {
+  margin-left: 10px;
+  text-align: right;
+  font-style: italic;
+}
+*/
 
 /* Lists */
 main ul,
