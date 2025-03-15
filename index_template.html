@@ -165,7 +165,7 @@
               {% endfor %}
             </section>
           {% endif %}
-
+<!--
           {% if volunteer_experience %}
             <section>
               <h2 class="section-heading">Volunteer Experience</h2>
@@ -201,7 +201,7 @@
                         </div>
                     {% endif %}
                 </section>
-
+-->
              {% endfor %}
           {% endif %}
           {% if references %}
@@ -219,11 +219,13 @@
                 </section>
               {% endfor %}
             </section>
+
           {% endif %}
         </main>
 
         <!-- Sidebar Section -->
         <aside>
+
             {% if education %}
               <section>
                 <h2 class="section-heading">Education</h2>
@@ -241,11 +243,15 @@
                     {% if edu.location %}<p class="section-label">{{ edu.location }}</p>{% endif %}
                     {% if edu.graduation_date %}<p class="section-label">{{ edu.graduation_date }}</p>{% endif %}
                     {% if edu.degrees %}
-                      <h4>Degree</h4>
+                      <h4>Degree: <span style="font-weight: normal;">{{ edu.degrees }}</span></h4>
+<!--
+                      <h4>Degree: {{ edu.degrees }}</h4>
                       <ul>
                         {% for deg in edu.degrees %}<li>{{ deg }}</li>{% endfor %}
                       </ul>
+-->
                     {% endif %}
+                        <div style="margin-top: 10px;"></div>
                     {% if edu.highlights %}
                       <h4>Highlights</h4>
                       <ul>
@@ -262,7 +268,6 @@
                 {% endfor %}
               </section>
             {% endif %}
-
 
 <!--
           {% if education %}

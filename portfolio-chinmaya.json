@@ -128,9 +128,7 @@
       "institution": "Praxis Business School",
       "location": "Rasapunja, Kolkata, India",
       "url": "https://snu.edu.in/home/",
-      "degrees": [
-        "PGP in Data Science"
-      ],
+      "degrees":"PGP in Data Science",
       "highlights": [
         "Won 'Best Capstone Project' for Monsoon '22 batch."
       ],
@@ -142,9 +140,7 @@
       "institution": "Shiv Nadar University",
       "location": "Greater Noida, NCR, India",
       "url": "https://snu.edu.in/home/",
-      "degrees": [
-        "B.Sc (Research) in Mathematics [4 Year Program]"
-      ],
+      "degrees":"B.Sc (Research) in Mathematics [4 Year Program]",
       "highlights": [
         "Merit Scholarship: Full tuition fee waiver",
         "Class representative to Student Council",
@@ -153,19 +149,6 @@
       "gpa_cumulative": "7.07",
       "gpa_percentage": "70.7%",
       "graduation_date": "Aug '17 to June '22"
-    },
-    {
-      "institution": "St. Columba's School'",
-      "location": "New Delhi, India",
-      "url": "https://snu.edu.in/home/",
-      "degrees": [
-        "Higher Secondary Certificate"
-      ],
-      "highlights": [
-        "Won Vedant Mehra Memorial Award for topping the school in English in the CBSE Board Exams."
-      ],
-      "gpa_percentage": "91.25%",
-      "graduation_date": "Apr '04 to May '17"
     }
   ],
   "skills": [
