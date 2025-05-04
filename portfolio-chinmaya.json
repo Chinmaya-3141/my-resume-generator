@@ -73,8 +73,8 @@
   ],
   "projects": [
     {
-      "title": "Capstone project - 'VisionRay - Prediction of Covid-19 Pneumonia from chest X-rays using Deep Learning'",
-      "summary": "Trained Efficient-net deep learning model to detect COVID-Pneumonia from chest X-rays. Used object detection to localize affected areas of patient lung.",
+      "title": "Capstone project - 'VisionRay - Prediction of Covid-19 Pneumonia'",
+      "summary": "Trained Efficient-net deep learning model to detect COVID-Pneumonia from chest X-rays. Used object detection to localize affected areas of patient lung. Won 'Best Capstone Project'.",
       "tech_used":"Pytorch, OpenCV, scikit-learn, streamlit",
       "url": "https://github.com/Chinmaya-3141/Capstone-Project.git"
     },
@@ -176,34 +176,33 @@
         {
           "img_path": "portfolio_media/cloud-badges/aws-certified-solutions-architect-associate.png",
           "caption": "AWS Solution Architect",
-          "link":"https://www.credly.com/badges/bba9d4e0-7ac3-4c8c-aff9-4fde83cab5bc/public_url"
+          "link":"https://cp.certmetrics.com/amazon/en/public/verify/credential/df51bb9a52b743d1944abe3081dc9dcd"
         },
         {
           "img_path": "portfolio_media/cloud-badges/aws-certified-cloud-practitioner.png",
           "caption": "AWS Cloud Practicioner",
-          "link":"https://www.credly.com/badges/ec0b2319-2c3d-4f63-9313-93ce7eb0eb92/public_url"
+          "link":"https://cp.certmetrics.com/amazon/en/public/verify/credential/cdca8300f9204abcbdbb786994cf8c98"
         },
         {
           "img_path": "portfolio_media/cloud-badges/azure-administrator-associate-600x600.png",
           "caption": "AZ104",
-          "link":""
+          "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/1AD84896580A7532?sharingId=D21F27FE43E34F95"
         },
         {
-          "img_path": "portfolio_media/cloud-badges/azure-ai-fundamentals-600x600.png",
-          "caption": "AI900",
-          "link":""
+            "img_path": "portfolio_media/cloud-badges/azure-ai-engineer-600-600.png",
+            "caption": "AI102",
+            "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/FA9D677ADD9AE13?sharingId=D21F27FE43E34F95"
         },
         {
           "img_path": "portfolio_media/cloud-badges/azure-fundamentals-600x600.png",
           "caption": "AZ900",
-          "link":""
+          "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/FB9F71C450A351E7?sharingId=D21F27FE43E34F95"
         },
         {
-          "img_path": "portfolio_media/cloud-badges/ey-cloud-silver-learning-2024.png",
-          "caption": "EY - Cloud",
-          "link":"https://www.credly.com/badges/bc9f56f2-88d8-4513-bb8b-9b619226e8f5/public_url"
+          "img_path": "portfolio_media/cloud-badges/azure-ai-fundamentals-600x600.png",
+          "caption": "AI900",
+          "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/92ABECCF03A1EB99?sharingId=D21F27FE43E34F95"
         }
-
       ]
     },
     {
@@ -218,7 +217,7 @@
         {
           "img_path": "portfolio_media/agile-badges/professional-scrum-product-owner-ii-pspo-ii.png",
           "caption": "PSPOII",
-          "link":"professional-scrum-product-owner-ii-pspo-ii.png"
+          "link":"https://www.credly.com/badges/daa0488b-1f3f-4aea-b002-46f2b4399796/public_url"
         },
         {
           "img_path": "portfolio_media/agile-badges/agile-coaching.png",
