@@ -189,13 +189,13 @@
             "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/FA9D677ADD9AE13?sharingId=D21F27FE43E34F95"
         },
         {
-            "img_path": "portfolio_media/cloud-badges/azure-developer-associate-600x600.png",
-            "caption": "AZ204",
+            "img_path": "portfolio_media/cloud-badges/azure-ai-engineer-600-600.png",
+            "caption": "AI102",
             "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/FA9D677ADD9AE13?sharingId=D21F27FE43E34F95"
         },
         {
-            "img_path": "portfolio_media/cloud-badges/azure-ai-engineer-600-600.png",
-            "caption": "AI102",
+            "img_path": "portfolio_media/cloud-badges/azure-developer-associate-600x600.png",
+            "caption": "AZ204",
             "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/FA9D677ADD9AE13?sharingId=D21F27FE43E34F95"
         },
         {
@@ -212,6 +212,21 @@
           "img_path": "portfolio_media/cloud-badges/azure-administrator-associate-600x600.png",
           "caption": "AZ104",
           "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/1AD84896580A7532?sharingId=D21F27FE43E34F95"
+        },
+        {
+          "img_path": "portfolio_media/cloud-badges/azure-fundamentals-600x600.png",
+          "caption": "AZ900",
+          "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/FB9F71C450A351E7?sharingId=D21F27FE43E34F95"
+        },
+        {
+          "img_path": "portfolio_media/cloud-badges/azure-ai-fundamentals-600x600.png",
+          "caption": "AI900",
+          "link":"https://learn.microsoft.com/api/credentials/share/en-us/ChinmayaV-8421/92ABECCF03A1EB99?sharingId=D21F27FE43E34F95"
+        },
+        {
+          "img_path": "portfolio_media/cloud-badges/aws-certified-cloud-practitioner.png",
+          "caption": "AWS Cloud Practicioner",
+          "link":"https://cp.certmetrics.com/amazon/en/public/verify/credential/cdca8300f9204abcbdbb786994cf8c98"
         }
       ]
     },
